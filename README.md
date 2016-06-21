@@ -13,7 +13,10 @@ Sample website with plenty of files for demos.  Oh boy~
 
 ## Deployment 
 
-This is a simple web project.
+This is a simple web project.  Have fun with it.
+
 
 
 ## How to Contribute
+
+Do something...
